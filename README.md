@@ -3,10 +3,6 @@
 Este proyecto consiste en un análisis profundo de un conjunto de datos de **Spotify**, aplicando técnicas de Ciencia de Datos para extraer información relevante sobre tendencias musicales, características de las canciones y comportamiento de los datos.
 
 
-
-[Image of Data Science lifecycle]
-
-
 ## 📊 Descripción del Proyecto
 El objetivo principal es realizar un **Análisis Exploratorio de Datos (EDA)** para identificar patrones y correlaciones entre diferentes variables técnicas de las pistas (como *danceability*, *energy*, *loudness*, etc.). El proyecto abarca desde la limpieza inicial de los datos hasta la generación de conclusiones basadas en visualizaciones estadísticas.
 
