@@ -4,7 +4,7 @@ Este proyecto consiste en un análisis profundo de un conjunto de datos de **Spo
 
 
 ## 📊 Descripción del Proyecto
-El objetivo principal es realizar un **Análisis Exploratorio de Datos (EDA)** para identificar patrones y correlaciones entre diferentes variables técnicas de las pistas (como *danceability*, *energy*, *loudness*, etc.). El proyecto abarca desde la limpieza inicial de los datos hasta la generación de conclusiones basadas en visualizaciones estadísticas.
+El objetivo principal es realizar un **Análisis Exploratorio de Datos (EDA)** para identificar patrones y correlaciones entre diferentes variables técnicas. El proyecto abarca desde la limpieza inicial de los datos hasta la generación de conclusiones basadas en visualizaciones estadísticas.
 
 ## 🛠️ Stack Tecnológico
 * **Lenguaje:** Python 3.x
